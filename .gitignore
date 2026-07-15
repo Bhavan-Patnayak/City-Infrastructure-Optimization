@@ -1,0 +1,17 @@
+# Build and compiled files
+/build/
+*.exe
+*.obj
+*.pdb
+*.ilk
+
+# Python environments and caches
+__pycache__/
+venv/
+env/
+.env
+
+# Large data files
+/data/raw/*.tif
+/data/raw/*.pbf
+*.zip

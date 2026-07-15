@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/Admin/OneDrive/Desktop/graphs/city-network-design/python/cmake_install.cmake",
+		"C:/Users/Admin/OneDrive/Desktop/graphs/city-network-design/python/_deps/json-build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

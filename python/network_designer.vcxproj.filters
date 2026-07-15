@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Admin\OneDrive\Desktop\graphs\city-network-design\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\OneDrive\Desktop\graphs\city-network-design\src\graph\Graph.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Admin\OneDrive\Desktop\graphs\city-network-design\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Natvis Include="C:\Users\Admin\OneDrive\Desktop\graphs\city-network-design\python\_deps\json-src\nlohmann_json.natvis" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{8C727672-CA40-364E-AE05-16BFD9A2EAB9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

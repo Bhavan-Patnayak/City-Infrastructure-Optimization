@@ -1,0 +1,10 @@
+^C:\USERS\ADMIN\ONEDRIVE\DESKTOP\GRAPHS\CITY-NETWORK-DESIGN\PYTHON\CMAKEFILES\1EBA0D8D6821AD58284AB55A79F2969D\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Admin/OneDrive/Desktop/graphs/city-network-design -BC:/Users/Admin/OneDrive/Desktop/graphs/city-network-design/python --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Admin/OneDrive/Desktop/graphs/city-network-design/python/CityNetworkDesign.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Admin\OneDrive\Desktop\graphs\city-network-design\python\_deps\json-subbuild\CMakeFiles\d6753829993ad8b19bb293860a3fb3df\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{0995392D-7EE0-3B27-8461-7A723274D210}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

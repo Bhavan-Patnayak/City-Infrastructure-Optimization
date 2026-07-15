@@ -1,0 +1,10 @@
+^C:\USERS\ADMIN\ONEDRIVE\DESKTOP\GRAPHS\CITY-NETWORK-DESIGN\PYTHON\_DEPS\JSON-SUBBUILD\CMAKEFILES\D6753829993AD8B19BB293860A3FB3DF\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Admin/OneDrive/Desktop/graphs/city-network-design/python/_deps/json-subbuild -BC:/Users/Admin/OneDrive/Desktop/graphs/city-network-design/python/_deps/json-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Admin/OneDrive/Desktop/graphs/city-network-design/python/_deps/json-subbuild/json-populate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
